@@ -1,3 +1,15 @@
 out
 .idea
 *.iml
+
+# Create a new branch: feature-a
+#Checkout to feature-a
+#	Create a class called Water
+#		add some lines
+#		commit those changes
+#	Create a class called Food
+#		add some lines
+#		commit those changes
+#	Push the changes to your origin feature-a branch
+
+
